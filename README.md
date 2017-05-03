@@ -2,7 +2,7 @@
 A simple tetris in shell with ncurses
 
 exemple of view:
-
+```
  \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_ ============
  \_\_\_\_\_\_\_\_\_\_ |HOLD| |score:    |
  \_\_\_\_\_\_\_\_\_\_ |    | |345356    |
@@ -24,3 +24,4 @@ exemple of view:
  |_ML______
  |-ML55_00_
  |MMLL5500_
+```
