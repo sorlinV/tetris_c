@@ -2,6 +2,7 @@
 A simple tetris in shell with ncurses
 
 exemple of view:
+/
 __________ ______ ============
 __________ |HOLD| |score:    |
 __________ |    | |345356    |
@@ -23,3 +24,4 @@ __________
 |_ML______
 |-ML55_00_
 |MMLL5500_
+/
